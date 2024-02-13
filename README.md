@@ -7,7 +7,7 @@ npm install tvg-parser
 
 ![logo](tvg-logo.png)
 
-## Research
+## Our Plan
 We plan on changing the way low poly 3D graphics are stored. 3D graphics files such as `.obj` files are stored as polygons or to be more specific a mesh of verticies.
 
 These take up a lot of disk space and are a primary factor in download size and in turn download speeds with games. This also affects things such as render time, as computers have to render individual polygons instead of rendering one whole object at once.
