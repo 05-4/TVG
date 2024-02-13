@@ -5,6 +5,8 @@ This is a test version of the TVG parser, our plan is to simplify how 3D graphic
 npm install tvg-parser
 ```
 
+![logo](tvg-logo.png)
+
 ## Research
 We plan on changing the way low poly 3D graphics are stored. 3D graphics files such as `.obj` files are stored as polygons or to be more specific a mesh of verticies.
 
